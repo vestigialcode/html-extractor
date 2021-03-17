@@ -1,0 +1,22 @@
+{
+  "name": "html-extractor",
+  "version": "1.0.0",
+  "description": "headless browser -> html extractor ## Usage   ` git clone https://github.com/vestigialcode/html-extractor`<br/>  ` cd html-extractor `<br/>  ` npm install`<br/>  ` node index.js`<br/>  this will show the example site html",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vestigialcode/html-extractor.git"
+  },
+  "author": "dibyajiban",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/vestigialcode/html-extractor/issues"
+  },
+  "homepage": "https://github.com/vestigialcode/html-extractor#readme",
+  "dependencies": {
+    "puppeteer": "^8.0.0"
+  }
+}
